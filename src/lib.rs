@@ -1,1 +1,2 @@
-// This is utility code for the rest of the library.
+// Export module memtable
+pub mod memtable;
